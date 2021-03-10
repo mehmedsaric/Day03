@@ -1,6 +1,6 @@
-funciton main() {
+function main() {
 // komentar
 /*komentar*/
  }
- console.(main());
+ console.log(main());
  module.exports = main;
